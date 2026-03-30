@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi World! I'm Ataya Najla 👋
+
+💻 Frontend Developer | 🚀 Tech Explorer | 📱 Interested in Web & Mobile Development
 
 <!--
 **Atayanajla/Atayanajla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💬 About Me
+- 🔭 I’m currently working on: Web & Mobile Development
+- 🌱 I’m currently learning: Backend development with Python & Cloud Computing
+- 📫 How to reach me: atayanajla269@gmail.com | [**LinkedIn**](linkedin.com/in/ataya-najla-883160243)
+- ⚡ Fun fact: Watching anime and playing games in my free time 🎮
+
+
