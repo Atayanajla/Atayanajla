@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 💬 About Me
 - 🔭 I’m currently working on: Web & Mobile Development
 - 🌱 I’m currently learning: Backend development with Python & Cloud Computing
-- 📫 How to reach me: atayanajla269@gmail.com | [**LinkedIn**](linkedin.com/in/ataya-najla-883160243)
+- 📫 How to reach me: atayanajla269@gmail.com | linkedin.com/in/ataya-najla-883160243
 - ⚡ Fun fact: Watching anime and playing games in my free time 🎮
 
 
