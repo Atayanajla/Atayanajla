@@ -23,4 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: atayanajla269@gmail.com | linkedin.com/in/ataya-najla-883160243
 - ⚡ Fun fact: Watching anime and playing games in my free time 🎮
 
-
+### 🛠️ Tech Stack
+- 💻 Frontend: HTML, CSS, JavaScript, React.js
+- ⚙️ Backend: PHP, Laravel
+- 🗄️ Database: MySQL
+- 🛠️ Tools: Git, DBeaver, VS Code
