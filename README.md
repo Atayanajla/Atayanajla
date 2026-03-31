@@ -1,8 +1,8 @@
 ## Hi World! I'm Ataya Najla 👋
 
-💻 Fullstack developer | 🚀 Tech Explorer | 📱 Interested in Web & Mobile Development
+💻 Web Developer | 🚀 Tech Explorer | 📱 Interested in Web & Mobile Development
 
-![Header](./img/github-header-banner.png)
+![Header](./img/github-header-banner2.png)
 
 <!--
 **Atayanajla/Atayanajla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ### 💬 About Me
 
-- 🔭 I’m currently working on: Web & Mobile Development
+<!-- - 🔭 I’m currently exploring : Web & Mobile Development -->
 - 🌱 I’m currently learning: Backend development with Python & Cloud Computing
-- ⚡ Fun fact: Watching anime and playing games in my free time 🎮
+<!-- - ⚡ Fun fact: Watching anime and playing games in my free time 🎮 -->
 
 ### 🛠️ Tech Stack
 
@@ -40,11 +40,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> 
 <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" /> 
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
 </p>
 </details>
