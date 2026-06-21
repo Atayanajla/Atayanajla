@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 💬 About Me
 
 <!-- - 🔭 I’m currently exploring : Web & Mobile Development -->
-- 🌱 I’m currently learning: Backend development with Python & Cloud Computing
+- 🌱 I’m currently learning: Backend development with Python
 <!-- - ⚡ Fun fact: Watching anime and playing games in my free time 🎮 -->
 
 ### 🛠️ Tech Stack
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 <details open>
-<summary><b>Other Skills</b></summary>
+<summary><b>Other</b></summary>
 <p> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
