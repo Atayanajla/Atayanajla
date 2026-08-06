@@ -4,11 +4,7 @@
 
 ![Header](./img/github-header-banner3.png)
 
-### 💬 About Me
-
-<!-- - 🔭 I’m currently exploring : Web & Mobile Development -->
-- 🌱 I’m currently learning: Backend development with Python
-<!-- - ⚡ Fun fact: Watching anime and playing games in my free time 🎮 -->
+<!-- ### 💬 About Me -->
 
 ### 🛠️ Tech Stack
 
@@ -52,7 +48,7 @@
   </a>
 </p>
 
-<!-- ### 📊 GitHub Activity
+### 📊 GitHub Activity
 
 ![Ataya's GitHub stats](https://github-readme-stats.vercel.app/api?username=atayanajla)
 
@@ -60,4 +56,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atayanajla/atayanajla/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atayanajla/atayanajla/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/atayanajla/atayanajla/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
